@@ -10,12 +10,7 @@ Let's talk about these ways in detail:
 Easier option because you don't have to do anything much other than to open CLI (Command-Line Interface) and write the commands.
 
 -You don't have Linux but have Mac/Windows OS 
-Olden times (not like 500 years back. Maybe 20 years? Feel old? We are.), we installed Linux in the system and do the above. But it was neither easy nor quick (It is still an option, but one in many.). So, Virtual Machines were introduced where we could run another OS as if it was running on its own independent hardware, so as to allow time-sharing among several single-tasking operating systems . This process is known as Virtualization. 
-
-In detail, Virtualization is the process of taking one or more components of a computer, such as CPUs, RAM, and storage, and tricking a piece of software, here Mac/Windows OS, into thinking those components are their physical counterparts. 
-The concept of virtualization has evolved with the internet, as businesses began offering “virtual” private networks as a rentable service. The use of virtual computers became popular, leading to the development of the modern cloud computing infrastructure. To sum it up, virtualization is a software that manipulates hardware, while cloud computing refers to a service that results from that manipulation. You can't have cloud computing without virtualization. It is the foundation of cloud computing where applications, servers, storage and network can all be virtualized. 
-
-I know you are wondering "So what is the point?". The point is: You can easily use the cloud platforms (here, we will be dealing with AWS) to create an instance, which is is a virtual server/system. One can set up and configure the operating system (here, Linux) and applications (here, CLI) that run on your instance. It's just a few clicks away, quick, hassle free, secure and pay as you go option. A gist of why companies are migrating to cloud platforms (which is a discussion for another day).
+You can easily use the cloud platforms (here, we will be dealing with AWS) to create an instance, which is is a virtual server/system. One can set up and configure the operating system (here, Linux) and applications (here, CLI) that run on your instance. It's just a few clicks away, quick, hassle free, secure and pay as you go option. A gist of why companies are migrating to cloud platforms (which is a discussion for another day).
 
 How to "Create an AWS EC2 instance"?
 
